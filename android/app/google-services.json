@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675732372809",
+    "project_id": "food-zartek",
+    "storage_bucket": "food-zartek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675732372809:android:e59f9a0e284b950020ee98",
+        "android_client_info": {
+          "package_name": "com.example.food_zartek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675732372809-ath67r6j88pqd9sjsbkdke6bjf3oilob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSbcn5slmE_ATtD1opgEqHxbmR6xtMMuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675732372809-ath67r6j88pqd9sjsbkdke6bjf3oilob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
